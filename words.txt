@@ -1,107 +1,185 @@
-106
-brick: something used for building walls, houses and other buildings
-gain: an advantage or improvement
-attract: to interest you and make you want it
-shark: a large sea fish with very sharp teeth and a pointed fin on its back
-target: an object, a person or a place that people aim at when attacking; a result that you try to achieve
-approach: to come near to somebody / something in distance or time
-attack: an act of using violence to try to hurt or kill somebody; to use violence to try to hurt or kill somebody
-sharp: having a fine edge or point, especially of something that can cut or make a hole in something
-skin: the layer of tissue that covers the body 
-strength: the quality of being physically strong
-wrap: to put something firmly around something /somebody; to cover something completely in paper or other material
-bleed: to lose blood, especially from a wound or an injury
-bite: to use your teeth to cut into or through something
-defeat: failure to win or to be successful; to win against somebody in a war, competition, sports game, etc.
-destroy: to damage something so badly that it no longer exists, works, etc.
-intelligent: (of an animal, a being, etc.) able to understand and learn things; good at learning, understanding
-struggle: to fight somebody or try to get away from them; to try very hard to do something when it is difficult
-sink: to go down below the surface or towards the bottom of a liquid or soft substance
-ahead: further forward in space or time; in front
-maintain: to make something continue at the same level, standard, etc.; to keep stating that something is true, even though other people do not agree
-dramatically: by a strikingly large amount or to a strikingly large extent; greatly
-curious: having a strong desire to know about something
-shortage: a situation when there is not enough of the people or things that are needed
-grain: the small hard seeds of food plants such as wheat, rice, etc.; a single seed of such a plant
-decade: a period of ten years
-self-sufficient: able to do or produce everything that you need without the help of other people
-medal: a flat piece of metal, usually shaped like a coin, that is given to the winner of a competition
-outstanding: extremely good; excellent
-institute: an organization that has a particular purpose, especially one that is connected with education or a particular profession
-request: the action of asking for something formally and politely
-atmosphere: the mixture of gases that surrounds the Earth
-lack: the state of not having something or not having enough of something
-clue: some words or a piece of information that helps you find the answers to a game or a question
-literature: pieces of writing that are valued as works of art
-failure: a person or thing that is not successful; lack of success in doing or achieving something
-realistic: accepting in a sensible way what it is actually possible to do or achieve in a particular situation 
-professional: doing something as a paid job rather than as a hobby
-false: wrong; not correct or true
-permanently: lasting for a long time or for all time in the future
-setback: a difficulty or problem that delays or prevents something or makes a situation worse
-title: the name of a book, poem, painting, piece of music, etc.
-cell phone: (American English) a mobile phone
-in addition: used when you want to mention another person or thing after something else
-nationality: one's legal right to belong to a nation
-journal: a written record of the things you do, see, etc. every day; a newspaper or magazine
-authority: the power to give orders to people the power to influence people because they respect your knowledge or official position
-journalist: a reporter
-annual: happening or done once every year
-spot: to see or notice a person or thing, especially suddenly or when it is not easy to do so
-entirely: in every way possible; completely
-error: a mistake, especially one that causes problems or affects the result of something
-emotion: a strong feeling such as love, fear or anger
-female: being a woman or a girl
-illustrate: to make the meaning of something clearer by using examples, pictures, etc.; to use pictures, photographs, diagrams, etc. in a book, etc.
-ensure: to make sure that something happens or is definite
+184
+associate: to make a connection between people or things in your mind
+tablet: a small computer easy to carry, usually without a physical keyboard
+tablet: a small solid piece of medicine
+fashion: a popular style of clothes, hair, etc. at a particular time or place
+item: a single object
+item: one thing on a list of things to buy or do
+abandon: to leave a thing or a place, especially because it's impossible or dangerous to stay
+abandon: to leave somebody especially somebody you are responsible for, with no intention of returning
+drawer: a part of a piece of furniture used for keeping things in
+essential: completely necessary
+essential: extremely important
+vital: necessary or essential in order for something to succeed or exist
+crucial: extremely important
+anxiety: the state of feeling nervous or worried that something bad is going to happen
+optimistic: expecting good things to happen or something to be successful
+release: to let a substance flow out
+release: to make something available to the public
+chemical: a substance used in a chemical process
+chemical: connected with chemistry
+miserable: very unhappy or uncomfortable
+lack: the state of having none or not enough of something
+lack: to have none or not enough of something
+mood: the way you are feeling at a particular time
 affect: to produce a change in somebody / something
-permission: the act of allowing somebody to do something
-subway: an underground railway / railroad system in a city
-average: ordinary; not special; typical or normal
-confirm: to state or show that something is definitely true or correct, especially by providing evidence
-click: to press a button on the mouse to choose something on the computer screen; to make or cause something to make a short sharp sound
-flexible: able to change to suit new conditions or situations
-perceive: to notice or become aware of something
-soccer: (American English) football
-horrible: very bad or unpleasant
-joyfully: happily
-calm: quiet and peaceful
-breathe: to take air into your lungs and send it out again through your nose or mouth
-merrily: in a happy, cheerful way
-release: the act of making something available to the public; to allow (news, etc) to be made known
-innovation: the introduction of new things, ideas or ways of doing something
-outline: to give a description of the main facts or points involved in something
-collection: a group of objects, often of the same sort, that have been collected
-committee: a group of people chosen to do a particular job, make decisions, etc.
-announce: to make something known publicly
-entry: something that you do, write or make to take part in a competition
-publish: to produce a book, magazine, CD-ROM, etc. and sell it to the public
-plot: the series of events that form the story of a novel, play, film / movie, etc.
-super: extremely
-soundtrack: all the music, speech and sounds that are recorded for a film / movie
-character: a person or an animal in a book, play or film / movie
-civilization: a state of human society that is very developed and organized
-novel: a story long enough to fill a complete book, in which the characters and events are usually imaginary
-astronaut: a person whose job involves travelling and working in a spacecraft 
-system: a group of things, pieces of equipment, etc. that are connected or work together; an organized set of ideas or theories or a particular way of doing something
-crash: to hit something hard while moving, causing noise and / or damage
-disaster: an unexpected event, such as a very bad accident, a flood or a fire, that kills a lot of people or causes a lot of damage
-pack: to fill something with a lot of people or things; to put clothes, etc. into a bag
-entertaining: interesting and amusing
-throughout: during the whole period of time of something
-photographer: a person who takes photographs, especially as a job
-rare: not done, seen, happening, etc. very often
-region: a large area of land
-custom: an accepted way of behaving or of doing things in a society or a community
-overall: including everything or everyone; in total; generally
-ordinary: not unusual or different in any way
-province: one of the areas that some countries are divided into with its own local government
-flour: a fine white or brown powder made from grain, especially wheat, and used in cooking for making bread, cakes, etc.
-participate in: to take part in or become involved in an activity
-ought to: used to say what is the right thing to do
-appeal to: to attract or interest somebody
-stewed beef: a dish in which beef is slowly cooked in liquid, which results in a thick, soup-like food
-soy sauce: a thin dark brown sauce that is made from soya beans and has a salty taste
-steamed bun: a flour dish that is cooked by hot steam
-staple food: a basic type of food
-focus on: to give attention, effort, etc. to one particular subject, situation or person
+affect: to touch the feelings of somebody
+theory: a formal set of ideas that explain why something happens or exists
+imply: to suggest that something is true or that you feel or think something, without saying so directly
+mutual: used to describe feelings that two or more people have for each other equally, or actions that affect two or more people equally
+contrast: a difference between two or more people or things
+depressed: very sad and without hope
+incredibly: extremely
+incredibly: in a way that is difficult to believe
+presentation: a meeting at which something, especially a new product or idea, a piece of work, is shown to a group of people
+presentation: the act of showing something or of giving something to somebody
+urge: a strong desire to do something
+urge: to advise or try hard to persuade somebody to do something
+appreciate: to recognize the good qualities of somebody / something
+appreciate: to be grateful for something done
+poet: a person who writes poems
+solid: that you can rely on
+solid: having a strong basis
+solid: hard or firm
+solid: not in the form of a liquid or gas
+scientific: involving science
+scientific: connected with science
+evidence: the facts that make you believe that something is true
+evidence: to prove or show something
+decade: a period of ten years
+overall: including all the things or people that are involved in a particular situation
+overall: general
+promote: to help something happen or develop
+promote: to help sell a product, service, etc. or make it more popular by offering it at a special price
+journalist: a person whose job is to collect and write news stories for newspapers, magazines or television
+afterwards: at a later time
+nutrition: the process by which living things receive the food necessary for them to grow healthy
+mostly: mainly, generally
+recipe: the instructions that tell you how to cook something and the items of food you need for it
+composition: a short text that is written as a school exercise
+composition: a short essay
+composition: the different parts which something is made of
+golf: a game played over a large area of ground usng specially shaped sticks to hit a small hard ball into a series of 9 or 18 holes
+wrestle: to fight somebody by holding them and trying to force them to the ground
+cycle: to ride a bicycle
+cooperate: to work together with somebody else to achieve something
+sacrifice: the fact of giving up something imoortant or valuable to you in order to get or do something that seems more important
+sacrifice: to give up something important to you in order to do something that seems more important for yourself or for another person
+discipline: the ability to control your behaviour or the way you live, work, etc.
+discipline: the practice of training people to obey rules and punishing them if they don't
+self-reliance: the ability to do or decide things by yourself
+commitment: a promise to do something or support somebody / something
+commitment: the willingness to work hard and give your energy to a job or an activity
+persuade: to make somebody do something by giving them good reasons for doing it
+tone: the quality of somebody's voice, especially expressing a particular emotion
+tournament: a sports competition involving many teams or players who take part in different games
+disappointed: upset as something you hoped for hasn't happened or been as good, successful, etc. as you expected
+committed: willing to work hard and give your time and energy to something
+consume: to use something, especially fuel, energy or time
+calorie: a unit for measuring how much energy food will produce
+milllon: 1,000,000
+suburb: an area where people live that is outside the centre of a city
+greedy: wanting more money, power, food, etc. than you really need
+portion: an amount of food that is large enough for one person
+portion: one part of something larger
+adopt: to start to use a particular method or show a particular attitude towards somebody / something
+adopt: to take somebody else's child as one's own and be its legal parent(s)
+fry: a long thin piece of potato cooked in hot oil
+fry: to cook something in hot oil
+consumption: the act of using energy, food or materials
+consumption: the act of buying and using products
+cancer: a serious disease in which growths of cells form in the body and kill normal body cells
+phenomenon: a fact or event in nature or society
+phenomena: a fact or event in nature or society (pl.)
+pots of money: a very large amount of money
+get a kick out of: get thrilled
+games console: a small electronic device for playing video games
+wave: a raised line of water that moves across the surface of the sea, ocean, etc.
+victim: a person who has been attacked, or killed as the result of a crime, disease, an accident, etc.
+tide: a regular rise and fall of the sea
+overflow: to be so full that the contents go over the sides
+mosquito: a flying insect that bites humans and animals and sucks their blood
+fellow: used to describe somebody who is the same as you in some way, or in the same situation
+fellow: a way of referring to a man or boy
+predict: to say that something will happen in the future
+distant: far away in space or time
+shelter: the fact of having a place to live or stay, considered as a basic human need
+nominate: to formally suggest that somebody should be chosen for an important role, prize, position, etc.
+anger: the strong feeling that you have when you think something that happened is bad and unfair
+frustration: the feeling of being annoyed for failure
+preserve: to keep a particular quality, feature, etc. to make sure that something is kept
+ancestor: a person in your family who lived a long time ago
+threaten: to be a danger to something
+threaten: to say that you will cause trouble, hurt somebody if you don't get what you want
+folk: traditional and typical of the ordinary people of a country or community
+folk: people in general
+forever: used to say that a particular situation or state will always exist
+inform: to tell somebody about something, especially in an official way
+nevertheless: despite something that you have just mentioned
+native: connected with the place where you have always lived or lived for a long time
+native: connected with the place where you were born and lived for the first years of your life
+landscape: everything you can see when you look across a large area of land, especially in the country
+visual: connected with seeing or sight
+antique: an object such as a piece of furniture that is old and often valuable
+pub: a building where people go to drink and meet their friends
+rural: connected with or like the countryside
+urban: connected with a town or city
+plain: not decorated or complicated
+plain: simple
+responsibility: a duty to deal with or take care of somebody something, so that you may be blamed if something goes wrong
+varied: of many different types
+tune: a series of musical notes that are sung or played in a particular order to form a piece of music
+bride: a woman on her wedding day, or just before or just after it
+bridegroom: a man on his wedding day, or just before or just after it
+bless: to have something good such as ability, great happiness, etc.
+calligraphy: beautiful handwriting done with a special pen or brush
+structure: the way in which the parts of something are connected together, arranged or organized
+structure: a particular arrangement of parts
+precise: clear and accurate
+advocate: a person who supports or speaks in favour of somebody or of a public plan or action
+advocate: to support something publicly
+recycle: to treat things that have been used so that they can be used again
+bin: a container that you put waste in
+widespread: existing or happening over a large area or among many people
+intention: what you intend or plan to do
+intention: your aim 
+energy-efficient: doing something well thoroughly with no waste of energy
+appointment: a formal arrangement to meet somebody at a particular time, especially for a reason connected with their work
+dentist: a person whose job is to take care of people's teeth
+skip: to jump over a rope which is held at both ends by yourself or by two other people
+contest: a competition in which people try to win something
+barbecue: an outdoor meal or party when food is cooked over an open fire
+garbage: waste food, paper, etc. that you throw away
+ban: to decide or say officially that something is not allowed
+ban: an official rule that says that something is not allowed
+access: the opportunity or right to use something or to see somebody / something
+access: a way of entering or reaching a place
+dormitory: a room for several people to sleep in, especially in a school or other institution
+perspective: a particular attitude towards something
+perspective: a way of thinking about something
+defend: to protect somebody / something from attack
+violence: violent behaviour that is intended to hurt or kill somebody
+campaign: to take part in a series of planned activities, for example to win an election
+campaign: a series of planned activities that are intended to achieve a social or commercial ai
+conserve: to use as little of something as possible so that it lasts a long time
+habitat: the place where a particular type of animal or plant is normally found
+essay: a short piece of writing on a particular subject
+convinced: completely sure about something
+opposing: (of attitudes, views, etc.) very different from each other
+marathon: a long running race of about 42 kilometres
+sponsor: a person or company that pays for some events in return for advertising 
+sponsor: to pay the costs of a particular event
+enthusiasm: a strong feeling of excitement and interest in something and a desire to become involved in it
+rewarding: worth doing
+transform: to completely change the appearance or character of somebody / something, especially so that it is better
+transform: to change the form of something
+stretch: to put your arms or legs out straight and tighten your muscles
+stretch: to make something longer, wider or looser
+stretch: to become longer
+involve: to make somebody take part in or experience something
+palm tree: a straight tree with a mass of long leaves at the top, growing in tropical countries
+crystal clear: completely clear and bright
+coconut milk: the white juice of coconut
+the human face of: a person who is involved in a subject, issue, etc. and makes it easier for ordinary people to understand and have sympathy with it
+weather forecast: a description of what the weather will be like tomorrow or for the next few days
+relay race: a race between teams in which each member of the team runs or swims one section of the race
