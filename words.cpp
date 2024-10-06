@@ -11,7 +11,27 @@
 std::mt19937 rng(std::chrono::steady_clock::now().time_since_epoch().count());
 
 std::vector<std::pair<std::string, std::string>> words;
-
+bool disle1(std::string s1, std::string s2){
+  std::vector<int> s(26);
+  for (auto i : s1) {
+    if ('a' <= i && i <= 'z') {
+      ++s[i - 'a'];
+    }
+  }
+  for (auto i : s2) {
+    if ('a' <= i && i <= 'z') {
+      --s[i - 'a'];
+    }
+  }
+  int c = 0;
+  for (int i = 0; i < 26; ++i) {
+    if (s[i] > 1 || s[i] < -1) {
+      return false;
+    }
+    c += (s[i] != 0);
+  }
+  return c <= 2;
+}
 int main() {
   auto start = std::chrono::system_clock::now();
   std::system("clear");
@@ -46,12 +66,17 @@ int main() {
     std::cout << j << std::endl;
     std::string ans;
     std::getline(std::cin, ans);
+    if (ans != i && disle1(ans,i)) {
+      std::cout << "\033[1A\e[93m" << ans << "\e[0m\n" << std::flush;
+      std::getline(std::cin, ans);
+    }
     if (ans != i) {
       ++wrong;
-      std::cout << "\e[91m" << i << "\e[0m\n" << std::flush;
+      std::cout << "\033[1A\e[91m" << ans << "\e[0m\n" << std::flush;
+      std::cout << "\e[92m" << i << "\e[0m\n" << std::flush;
       corr += i + ": " + j + '\n';
     } else {
-      std::cout << "\e[92m" << i << "\e[0m\n" << std::flush;
+      std::cout << "\033[1A\e[92m" << i << "\e[0m\n" << std::flush;
     }
   }
   oo << wrong << '\n' << corr;
