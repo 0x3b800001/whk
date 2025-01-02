@@ -1,185 +1,226 @@
-184
-associate: to make a connection between people or things in your mind
-tablet: a small computer easy to carry, usually without a physical keyboard
-tablet: a small solid piece of medicine
-fashion: a popular style of clothes, hair, etc. at a particular time or place
-item: a single object
-item: one thing on a list of things to buy or do
-abandon: to leave a thing or a place, especially because it's impossible or dangerous to stay
-abandon: to leave somebody especially somebody you are responsible for, with no intention of returning
-drawer: a part of a piece of furniture used for keeping things in
-essential: completely necessary
-essential: extremely important
-vital: necessary or essential in order for something to succeed or exist
-crucial: extremely important
-anxiety: the state of feeling nervous or worried that something bad is going to happen
-optimistic: expecting good things to happen or something to be successful
-release: to let a substance flow out
-release: to make something available to the public
-chemical: a substance used in a chemical process
-chemical: connected with chemistry
-miserable: very unhappy or uncomfortable
-lack: the state of having none or not enough of something
-lack: to have none or not enough of something
-mood: the way you are feeling at a particular time
-affect: to produce a change in somebody / something
-affect: to touch the feelings of somebody
-theory: a formal set of ideas that explain why something happens or exists
-imply: to suggest that something is true or that you feel or think something, without saying so directly
-mutual: used to describe feelings that two or more people have for each other equally, or actions that affect two or more people equally
-contrast: a difference between two or more people or things
-depressed: very sad and without hope
-incredibly: extremely
-incredibly: in a way that is difficult to believe
-presentation: a meeting at which something, especially a new product or idea, a piece of work, is shown to a group of people
-presentation: the act of showing something or of giving something to somebody
-urge: a strong desire to do something
-urge: to advise or try hard to persuade somebody to do something
-appreciate: to recognize the good qualities of somebody / something
-appreciate: to be grateful for something done
-poet: a person who writes poems
-solid: that you can rely on
-solid: having a strong basis
-solid: hard or firm
-solid: not in the form of a liquid or gas
-scientific: involving science
-scientific: connected with science
-evidence: the facts that make you believe that something is true
-evidence: to prove or show something
-decade: a period of ten years
-overall: including all the things or people that are involved in a particular situation
-overall: general
-promote: to help something happen or develop
-promote: to help sell a product, service, etc. or make it more popular by offering it at a special price
-journalist: a person whose job is to collect and write news stories for newspapers, magazines or television
-afterwards: at a later time
-nutrition: the process by which living things receive the food necessary for them to grow healthy
-mostly: mainly, generally
-recipe: the instructions that tell you how to cook something and the items of food you need for it
-composition: a short text that is written as a school exercise
-composition: a short essay
-composition: the different parts which something is made of
-golf: a game played over a large area of ground usng specially shaped sticks to hit a small hard ball into a series of 9 or 18 holes
-wrestle: to fight somebody by holding them and trying to force them to the ground
-cycle: to ride a bicycle
-cooperate: to work together with somebody else to achieve something
-sacrifice: the fact of giving up something imoortant or valuable to you in order to get or do something that seems more important
-sacrifice: to give up something important to you in order to do something that seems more important for yourself or for another person
-discipline: the ability to control your behaviour or the way you live, work, etc.
-discipline: the practice of training people to obey rules and punishing them if they don't
-self-reliance: the ability to do or decide things by yourself
-commitment: a promise to do something or support somebody / something
-commitment: the willingness to work hard and give your energy to a job or an activity
-persuade: to make somebody do something by giving them good reasons for doing it
-tone: the quality of somebody's voice, especially expressing a particular emotion
-tournament: a sports competition involving many teams or players who take part in different games
-disappointed: upset as something you hoped for hasn't happened or been as good, successful, etc. as you expected
-committed: willing to work hard and give your time and energy to something
-consume: to use something, especially fuel, energy or time
-calorie: a unit for measuring how much energy food will produce
-milllon: 1,000,000
-suburb: an area where people live that is outside the centre of a city
-greedy: wanting more money, power, food, etc. than you really need
-portion: an amount of food that is large enough for one person
-portion: one part of something larger
-adopt: to start to use a particular method or show a particular attitude towards somebody / something
-adopt: to take somebody else's child as one's own and be its legal parent(s)
-fry: a long thin piece of potato cooked in hot oil
-fry: to cook something in hot oil
-consumption: the act of using energy, food or materials
-consumption: the act of buying and using products
-cancer: a serious disease in which growths of cells form in the body and kill normal body cells
-phenomenon: a fact or event in nature or society
-phenomena: a fact or event in nature or society (pl.)
-pots of money: a very large amount of money
-get a kick out of: get thrilled
-games console: a small electronic device for playing video games
-wave: a raised line of water that moves across the surface of the sea, ocean, etc.
-victim: a person who has been attacked, or killed as the result of a crime, disease, an accident, etc.
-tide: a regular rise and fall of the sea
-overflow: to be so full that the contents go over the sides
-mosquito: a flying insect that bites humans and animals and sucks their blood
-fellow: used to describe somebody who is the same as you in some way, or in the same situation
-fellow: a way of referring to a man or boy
-predict: to say that something will happen in the future
-distant: far away in space or time
-shelter: the fact of having a place to live or stay, considered as a basic human need
-nominate: to formally suggest that somebody should be chosen for an important role, prize, position, etc.
-anger: the strong feeling that you have when you think something that happened is bad and unfair
-frustration: the feeling of being annoyed for failure
-preserve: to keep a particular quality, feature, etc. to make sure that something is kept
-ancestor: a person in your family who lived a long time ago
-threaten: to be a danger to something
-threaten: to say that you will cause trouble, hurt somebody if you don't get what you want
-folk: traditional and typical of the ordinary people of a country or community
-folk: people in general
-forever: used to say that a particular situation or state will always exist
-inform: to tell somebody about something, especially in an official way
-nevertheless: despite something that you have just mentioned
-native: connected with the place where you have always lived or lived for a long time
-native: connected with the place where you were born and lived for the first years of your life
-landscape: everything you can see when you look across a large area of land, especially in the country
-visual: connected with seeing or sight
-antique: an object such as a piece of furniture that is old and often valuable
-pub: a building where people go to drink and meet their friends
-rural: connected with or like the countryside
-urban: connected with a town or city
-plain: not decorated or complicated
-plain: simple
-responsibility: a duty to deal with or take care of somebody something, so that you may be blamed if something goes wrong
-varied: of many different types
-tune: a series of musical notes that are sung or played in a particular order to form a piece of music
-bride: a woman on her wedding day, or just before or just after it
-bridegroom: a man on his wedding day, or just before or just after it
-bless: to have something good such as ability, great happiness, etc.
-calligraphy: beautiful handwriting done with a special pen or brush
-structure: the way in which the parts of something are connected together, arranged or organized
-structure: a particular arrangement of parts
-precise: clear and accurate
-advocate: a person who supports or speaks in favour of somebody or of a public plan or action
-advocate: to support something publicly
-recycle: to treat things that have been used so that they can be used again
-bin: a container that you put waste in
-widespread: existing or happening over a large area or among many people
-intention: what you intend or plan to do
-intention: your aim 
-energy-efficient: doing something well thoroughly with no waste of energy
-appointment: a formal arrangement to meet somebody at a particular time, especially for a reason connected with their work
-dentist: a person whose job is to take care of people's teeth
-skip: to jump over a rope which is held at both ends by yourself or by two other people
-contest: a competition in which people try to win something
-barbecue: an outdoor meal or party when food is cooked over an open fire
-garbage: waste food, paper, etc. that you throw away
-ban: to decide or say officially that something is not allowed
-ban: an official rule that says that something is not allowed
-access: the opportunity or right to use something or to see somebody / something
-access: a way of entering or reaching a place
-dormitory: a room for several people to sleep in, especially in a school or other institution
-perspective: a particular attitude towards something
-perspective: a way of thinking about something
-defend: to protect somebody / something from attack
-violence: violent behaviour that is intended to hurt or kill somebody
-campaign: to take part in a series of planned activities, for example to win an election
-campaign: a series of planned activities that are intended to achieve a social or commercial ai
-conserve: to use as little of something as possible so that it lasts a long time
-habitat: the place where a particular type of animal or plant is normally found
-essay: a short piece of writing on a particular subject
-convinced: completely sure about something
-opposing: (of attitudes, views, etc.) very different from each other
-marathon: a long running race of about 42 kilometres
-sponsor: a person or company that pays for some events in return for advertising 
-sponsor: to pay the costs of a particular event
-enthusiasm: a strong feeling of excitement and interest in something and a desire to become involved in it
-rewarding: worth doing
-transform: to completely change the appearance or character of somebody / something, especially so that it is better
-transform: to change the form of something
-stretch: to put your arms or legs out straight and tighten your muscles
-stretch: to make something longer, wider or looser
-stretch: to become longer
-involve: to make somebody take part in or experience something
-palm tree: a straight tree with a mass of long leaves at the top, growing in tropical countries
-crystal clear: completely clear and bright
-coconut milk: the white juice of coconut
-the human face of: a person who is involved in a subject, issue, etc. and makes it easier for ordinary people to understand and have sympathy with it
-weather forecast: a description of what the weather will be like tomorrow or for the next few days
-relay race: a race between teams in which each member of the team runs or swims one section of the race
+225
+log: to gain access to social media websites
+log: a thick piece of wood
+status: the situation at a particular time during a process
+status: the legal position of a person, group or country
+analyse: to examine the nature or structure of something
+gossip: informal talk or stories about other people's private lives
+dozen: a group of twelve of the same thing
+bet: used to say that you are almost certain that something is true or that something will happen
+untag: to remove a friend's account in one's posts
+pray: to hope very much that something will happen
+intense: very great
+intense: very strong
+consistently: in a systematic or consistent manner
+consequently: as a result
+consequently: therefore
+compromise: to bring someone or something into danger
+nasty: very bad or unpleasant
+profile: a description of somebody or something that gives useful information
+delete: to remove or make invisible
+weep: to cry, usually because you are sad
+sympathetic: caring or feeling sorry about someone's problems
+employer: a person or company that pays people to work for them
+exposure: the act of showing something that is usually hidden
+harm: damage or injury that is caused by a person or an event
+potential: that can develop into something or be developed in the future
+pause: a period of time during which somebody stops talking or stops what they are doing
+instant: happening immediately
+dare: to be brave enough to do something
+outgoing: liking to meet other people, enjoying their company and being friendly towards them
+adorable: very attractive and easy to feel love for
+prior: happening or existing before something else or before a particular time
+globe: the world
+canal: a long straight passage dug in the ground and filled with water for boats and ships to travel along
+foggy: not clear because of fog
+mist: a cloud of very small drops of water in the air just above the ground
+estate: an area of land with a lot of houses or factories of the same type on it
+weed: a wild plant growing where it is not wanted 
+wire: metal in the form of thin thread
+kettle: a container used for boiling water
+lung: either of the two organs in the chest that you use for breathing
+handkerchief: a small piece of material that you use for blowing your nose
+plug: to connect apiece of electrical equipment to the main supply of electricity
+wrist: the joint between the hand and the arm
+waist: the area around the middle of the body between the ribs and the hips, often narrower than the areas above and below
+comprise: to have somebody/something as parts or members
+component: one of several parts of which something is made
+clue: a fact or a piece of evidence that helps you discover the answer to a problem
+clarify: to make something clearer or easier to understand
+constant: happening repeatedly or all the time
+rarely: not very often
+instantly: immediately
+emergency: an unexpected and dangerous situation that one must deal with 
+inaccurate: not exact or accurate
+objective: not influenced by personal feelings or opinions
+device: an object or a piece of equipment that has been designed to do a particular job
+device: a method of doing something that produces a particular result or effect
+absorb: to interest somebody very much so that they pay no attention to anything else
+withdraw: to stop taking part in an activity or being a member of an organization
+compatible: the state of two things possible to be used together
+fleeting: lasting only a short time
+hip: one of the two parts on each side of your body between the top of your leg and your waist
+desperate: needing something very much
+desperate: feeling little hope and are ready to do anything without worrying about the results
+reverse: to change something completely so that it is the opposite of what it was before
+version: a film/movie, play, etc. that is based on a particular piece of work but is in a different form, style or language
+rhyme: to put words that sound the same together
+mechanical: (disapproving)(of people's behaviour and actions)done without thinking, like a machine
+mechanical: operated by power from an engine
+neutral: without strong feeling
+log in: to perform the actions that allow you to begin using a computer system
+have a row with: to have an argument with somebody
+human being: a person rather than an animal or machine
+detective story: a story whose plot involves the investigation and solving of a crime
+genius: a person who is intelligent or artistic or has a high level of skill especially in one area
+scream: to give a loud, high cry, because you are hurt, frightened, excited, etc. 
+professor: a university teacher of the highest rank
+maturity: the quality of thinking and behaving in a sensible, adult manner
+sculptor: a person who makes sculptures
+cubism: a style and movement in early 20th century art in which objects and people are represented as geometric shapes, often shown from many different angles at the same time
+found: to start an organization or an institution, especially by providing money
+triangle: a flat shape with three straight sides and three angles
+triangle: a thing in the shape of a triangle
+controversial: causing a lot of angry public discussion and disagreement
+applaud: to express praise for somebody/something because you approve of them or it
+applaud: to show your approval of somebody/something by clapping your hands
+compose: to write music
+symphony: a long complicated piece of music for a large orchestra, in three or four main parts
+brilliant: very successful
+brilliant: very intelligent or skillful
+superb: excellent
+superb: of very good quality
+noble: belonging to a family of high social rank
+royal: connected with or belonging to the king or queen of a country
+beauty: the quality of being pleasing to the senses or to the mind
+output: the amount of something that a person, a machine or an organization produces
+opera: a dramatic work in which all or most of the words are sung to music
+opera: works of this type as an art form or entertainment
+devotion: the action of spending a lot of time or energy on something
+tailor: a person whose job is to make men's clothes, especially somebody who makes suits, etc. for individual customers
+servant: a person who works in another person's house, and cooks, cleans, etc. for them
+finance: money available to a person, an organization or a country
+finance: the way this money is managed
+vision: an idea or a picture in your imagination
+vision: a dream or similar experience
+funeral: a ceremony for burying a dead person
+grave: a place in the ground where a dead person is buried
+financial: connected with money and finance
+criticism: the act of expressing disapproval of somebody/something and opinions about their faults or bad qualities
+criticism: a statement showing disapproval
+gradually: slowly, over a long period of time
+splendid: very impressive
+splendid: very beautiful
+substantial: large in amount, value or importance
+property: a quality that something has
+ruins: the parts of a building that remain after it has been destroyed or severely damaged
+ruin: to damage something so badly that it loses all ts value, pleasure, etc. 
+ruin: to spoil something
+jungle: an area of tropical forest where trees and plants grow very thickly
+fantasy: a product of your imagination
+fantasy: a pleasant situation that you imagine but that is unlikely to happen
+leather: material made by removing the hair or fur from animal skins and preserving the skins using special processes
+practical: (of a person)sensible and realistic
+security: the state of feeling happy and safe from danger or worry 
+straightforward: easy to do or to understand
+straightforward: not complicated
+emotion: a strong feel such as love, fear or anger
+emotion: the part of a person's character that consists of feelings
+division: a large and important  section of an organization
+compete: to try to be more successful or better than somebody else who is trying to do the same as you
+category: a group of people or things with particular features in common
+absence: the fact of somebody/something not existing or not being available
+absence: a lack of something
+absence: the fact of somebody being away from a place where they are usually expected to be
+remarkable: unusual or surprising in a way that causes people to take notice
+robber: a person who steals from a person or place, especially using violence or threats 
+interpretation: the particular way in which somebody chooses to perform a piece of music, a role in a play, etc.
+adaptation: a film, book or play that is based on a particular piece of work but that has been changed for a new situation 
+evaluative: based on an assessment of the values, qualities, and significance of a particular person or thing
+deny: to say that something is not true 
+favoured: preferred by most people
+distinctive: having a quality or characteristic that makes something different and easily noticed
+inner: private and secret
+inner: not expressed or shown to other people
+emphasis: special importance that is given to something
+complicated: made of many different things or parts that are connected
+complicated: difficult to understand
+characteristic: very typical of something or of somebody's character
+anniversary: a date that is an exact number of years after the date of an important or special event
+striking: interesting and unusual enough to attract attention
+sketch pad: a number of pieces of paper for writing or drawing on, that are fastened together at one edge
+trial and error: the process of solving a problem by trying various methods until you find a method that is successful
+accompany: to travel or go somewhere with somebody
+beam: a line of light
+brick: something used for building walls, houses and other buildings
+blank: empty
+blank: with no pictures, marks or decoration
+nonsense: ideas, statements or beliefs that you think are ridiculous or not true
+shade: a covering fora window, especially one made of a roll of cloth that is fixed at the top of the window and can be pulled up and down
+shade: an area that is dark and cool under or behind something because the sun's light does not get to it
+firm: strongly fixed in place
+stem: the main long thin part of a plant above the ground from which the leaves or flowers grow
+stem: a smaller part that grows from this and supports flowers or leaves
+sin: an offence against a religious or moral law
+ladder: a piece of equipment for climbing up and down a wall the side of a building, etc. , consisting of two lengths of wood or metal that are joined together by steps or rungs
+fate: the things, especially bad things, that will happen or have happened to somebody/something
+amateur: a person who takes part in a sport or other activity for enjoyment, not as a job
+amateur: done for enjoyment or interest, not as a job
+humble: showing that you are not as important as other people
+amid: in the middle of or during something, especially something that causes excitement or fear
+hint: to suggest something in an indirect way
+hint: something that you say or do in an indirect way in order to show somebody what you are thinking
+pessimistic: expecting bad things to happen or something not to be successful
+ambitious: determined to be successful, rich, powerful, etc.
+pond: a small area of still water, especially one that is artificial
+labour: work, especially physical work
+carpet: a thick woven material made of wool, etc. for covering floors or stairs
+blanket: a large cover, often made of wool, used especially on beds to keep people warm
+classify: to arrange something in groups according to their common features
+classify: to decide which type or group somebody/something belongs to
+corresponding: matching or connected with something that you have just mentioned
+severely: extremely badly or seriously
+belief: a strong feeling that something/somebody exists or is true
+belief: confidence that something/ somebody is good or right
+bow: a weapon used for shooting arrows, consisting of a long curved piece of wood or metal with a tight string joining its ends
+arrow: a thin stick with a sharp point at one end, which is shot from a bow
+acknowledge: to accept that something is true
+interact: to communicate with somebody, especially while you work, play or spend time with them
+liberation: the act of freeing a country or a person from the control of somebody else
+navy: the part of a country's armed forces that fights at sea, and the ships that it uses
+crew: all the people working on a ship, plane, etc.
+assign: to give somebody something that they can use, or some work or responsibility
+confront: to make somebody face or deal with an unpleasant or difficult person or situation
+seize: to take somebody/something in your hand suddenly and using force
+communist: a person who believes in or supports communism
+outstanding: extremely good
+outstanding: excellent
+fascinating: extremely interesting and attractive
+herb: a plant whose leaves, flowers or seeds are used to flavour food, in medicines or for their pleasant smell
+extraordinary: not normal or ordinary
+extraordinary: greater or better than usual
+pursue: to do something or try to achieve something over a period of time
+dedicate: to give a lot of your time and effort  to a particular activity or purpose because you think it is important
+liberty: freedom to live as you choose without too many restrictions from government or authority
+initially: at the beginning
+transformation: a complete change in somebody/something
+sorrow: a feeling of great sadness because something very bad has happened
+subsequent: happening or coming after something else
+lawyer: a person who is trained and qualified to advise people about the law and to represent them in court, and to write legal documents
+welfare: the general health, happiness and safety of a person, an animal or a group
+involvement: the act of taking part in something
+expense: the money you spend on something
+principled: having strong beliefs about what is right and wrong
+principled: based on strong beliefs
+persistence: the fact of continuing to do something despite difficulties
+dignity: a sense of your own importance and value
+steel: a strong hard metal that is made of a mixture of iron and carbon
+stability: the quality or state of being steady and not changing or being disturbed in any way
+negotiate: to try to reach an agreement by formal discussion
+manner: the way that somebody behaves towards other people
+manner: the way that something is done or happens
+capacity: the ability to understand or to do something
+cling to: to hold on tightly to somebody /something
+fond of: having a liking for somebody/something
+in the midst of: in the middle of
+turn down: to reject or refuse to consider an offer, a proposal, etc. or the person who makes it
