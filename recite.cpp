@@ -96,11 +96,11 @@ int main() {
     std::cout << q[0].substr(q[0].find('[') + 3) << std::flush;
     if (answer != q[i]) {
       gotox(q[0].find("[") + 3);
-      std::cout << "\033[91m" << q[i] << "\033[0m";
+      std::cout << "\033[31m" << q[i] << "\033[0m";
       ++wrong;
     } else {
       gotox(q[0].find("[") + 3);
-      std::cout << "\033[92m" << q[i] << "\033[0m";
+      std::cout << "\033[32m" << q[i] << "\033[0m";
     }
     q[0][q[0].find('[')] = ' ';
   }
