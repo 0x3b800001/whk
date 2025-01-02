@@ -8,6 +8,12 @@
 #include <random>
 #include <vector>
 
+int getcol() {
+  struct winsize info;
+  ioctl(STDIN_FILENO, TIOCGWINSZ, &info);
+  return info.ws_col;
+}
+
 std::mt19937 rng(std::chrono::steady_clock::now().time_since_epoch().count());
 
 std::vector<std::pair<std::string, std::string>> words;
@@ -58,8 +64,25 @@ int main() {
   std::shuffle(words.begin(), words.end(), rng);
   std::string corr;
   std::ofstream oo("correction.txt");
-  int wrong = 0;
+  int wrong = 0, cc = 0;
   for (auto [i, j] : words) {
+    int col = getcol();
+    std::cout << "\e[101m";
+    int t = std::ceil(1.0 * wrong / words.size() * col);
+    while (t--) {
+      std::cout << ' ';
+    }
+    std::cout << "\e[102m";
+    t = std::ceil(1.0 * cc / words.size() * col) - std::ceil(1.0 * wrong / words.size() * col);
+    while (t--) {
+      std::cout << ' ';
+    }
+    std::cout << "\e[47m";
+    t = col - std::ceil(1.0 * cc / words.size() * col);
+    while (t--) {
+      std::cout << ' ';
+    }
+    std::cout << "\e[49m\n";
     if (i.find(' ') == i.npos) {
       std::cout << i[0] << "_______: ";
     }
@@ -67,17 +90,18 @@ int main() {
     std::string ans;
     std::getline(std::cin, ans);
     if (ans != i && disle1(ans,i)) {
-      std::cout << "\033[1A\e[93m" << ans << "\e[0m\n" << std::flush;
+      std::cout << "\033[1A\e[33m" << ans << "\e[0m\n" << std::flush;
       std::getline(std::cin, ans);
     }
     if (ans != i) {
       ++wrong;
-      std::cout << "\033[1A\e[91m" << ans << "\e[0m\n" << std::flush;
-      std::cout << "\e[92m" << i << "\e[0m\n" << std::flush;
+      std::cout << "\033[1A\e[31m" << ans << "\e[0m\n" << std::flush;
+      std::cout << "\e[32m" << i << "\e[0m\n" << std::flush;
       corr += i + ": " + j + '\n';
     } else {
-      std::cout << "\033[1A\e[92m" << i << "\e[0m\n" << std::flush;
+      std::cout << "\033[1A\e[32m" << i << "\e[0m\n" << std::flush;
     }
+    ++cc;
   }
   oo << wrong << '\n' << corr;
   oo.close();
@@ -87,13 +111,13 @@ int main() {
       std::chrono::duration_cast<std::chrono::microseconds>(end - start);
   std::cout << "\nScore: ";
   if (0 <= d && d < 80) {
-    std::cout << "\e[91m" << d << "\e[0m.\n";
+    std::cout << "\e[31m" << d << "\e[0m.\n";
   } else if (80 <= d && d < 90) {
-    std::cout << "\e[93m" << d << "\e[0m.\n";
+    std::cout << "\e[33m" << d << "\e[0m.\n";
   } else if (90 <= d && d < 100) {
-    std::cout << "\e[32m" << d << "\e[0m.\n";
+    std::cout << "\e[92m" << d << "\e[0m.\n";
   } else {
-    std::cout << "\e[92m100\e[0m. Congratulations!\n";
+    std::cout << "\e[32m100\e[0m. Congratulations!\n";
   }
   std::cout << "Time: "
             << double(duration.count()) *
